@@ -1,2 +1,2 @@
 # BrightLearn-SQL-Practicals
-Practicals I did while learning SQL.
+This repository stores all SQL practicals completed (On Snowflake) from SQL Fundementals to advanced SQL.
